@@ -15,6 +15,13 @@ Catalog items in ServiceNow are defined using three interrelated components: Cor
 The Offering Onboarding V2 form is divided into three sections - 
  - 2.1 Company Information 
  --------------------------
- ! https://github.com/anudave/master-wf/blob/master/company.png
-      
+ ! [Company SS]
+ https://github.com/anudave/master-wf/blob/master/company.png
  
+ The values are being captured for Company Information are: (Single Line Text)
+...a. Company: Name of Company (AEGON)
+...b. Client ID: Salesforce ID (5172)
+...c. Stock Ticker: Company CAP (AEG)
+...d. Contract ID: If associated with any external contract
+...e. Company Address: Street, City, State, Zip and Country
+
