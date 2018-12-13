@@ -15,4 +15,7 @@ Catalog items in ServiceNow are defined using three interrelated components: Cor
 The Offering Onboarding V2 form is divided into three sections - 
  - 2.1 Company Information 
  --------------------------
+ ![](
+        master-wf/company.png
+      )
  
