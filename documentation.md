@@ -53,11 +53,11 @@ Depending on the value selected in DXC Offering Family, the Select Major Offerin
 b.	Select Business Service and Catalog Entitlement: List Collector – Mandatory 
 - Selection of either of the major offering results in another field being visible where in 	the offering specific business services and catalog entitlement can be chosen.
 
-![Bus Serv Cat Ent] (https://github.com/anudave/master-wf/blob/master/images/bs_cat_item.png)
+![Bus Serv Cat Ent](https://github.com/anudave/master-wf/blob/master/images/bs_cat_item.png)
 
  - 2.3 User Information
  --------------------------
- ![User] (https://github.com/anudave/master-wf/blob/master/images/user.png)
+ ![User](https://github.com/anudave/master-wf/blob/master/images/user.png)
  
 User information up to three users is captured to identify and provide access to concerned people from the client company and up to two admins can also be added on the request form for the offering that was selected
 
@@ -68,7 +68,7 @@ User information up to three users is captured to identify and provide access to
 1. PDXC Onboarding DMAR Sub-flow
 2. PDXC Onboarding Domain Creation/ConnectNow Sub-flow
 
-![WF] (https://github.com/anudave/master-wf/blob/master/images/wf.png)
+![WF](https://github.com/anudave/master-wf/blob/master/images/wf.png)
 
 1.	Initialize Core Data 
 -	This activity allows the core inputs from the form to be added into an input array that will be utilized in all the following workflow activities.
